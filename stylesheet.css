@@ -1,0 +1,21 @@
+body {
+	margin: 20px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 30px;
+	color:#444;
+}
+
+li {
+	line-height: 1;
+	background-size: 50px;
+	
+img {
+	margin: 10px;
+	border-left: solid red 44px;
+}
